@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome ~/h1>
+<h1 align="center">👋 Welcome ~ /h1>
 <h3 align="center">I am a web developer from Brazil! 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derkr0w&label=Profile%20views&color=0e75b6&style=flat" alt="derkr0w" /> </p>
